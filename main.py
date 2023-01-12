@@ -7,7 +7,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher.filters import Text
 
-API_TOKEN = '5910271576:AAE9bf0_5ZXV2LtnOEaleXebIdktWWUdZtA'
+API_TOKEN = 'your API token'
 
 logging.basicConfig(level=logging.INFO)
 
